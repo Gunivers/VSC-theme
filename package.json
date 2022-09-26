@@ -1,0 +1,21 @@
+{
+  "name": "gunivers-theme",
+  "displayName": "Gunivers Theme",
+  "description": "VSC Guniformizer, because black & orange are the best colors!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gunivers",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gunivers-color-theme.json"
+      }
+    ]
+  }
+}
