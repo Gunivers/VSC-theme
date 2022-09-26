@@ -4,11 +4,11 @@
   "description": "VSC Guniformizer, because black & orange are the best colors!",
   "repository": "https://github.com/Gunivers/VSC-theme",
   "publisher": "Leirof",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.71.0"
   },
-  "icon": "https://gunivers.net/wp-content/uploads/2022/04/Logo-Gunivers-2022-G-couleurs-avatar.png",
+  "icon": "icon.png",
   "galleryBanner": {
     "color": "#C80000",
     "theme": "dark"
