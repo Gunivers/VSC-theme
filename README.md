@@ -6,7 +6,7 @@ Everything is in the title.
 
 ![](img/preview.png)
 
-Merci d'avoir choisit
+Merci d'avoir choisi
 
 ![](img/gunivers.jpg)
 
