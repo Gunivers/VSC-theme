@@ -4,7 +4,7 @@
   "description": "VSC Guniformizer, because black & orange are the best colors!",
   "repository": "https://github.com/Gunivers/VSC-theme",
   "publisher": "Leirof",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "engines": {
     "vscode": "^1.71.0"
   },
